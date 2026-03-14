@@ -7,6 +7,6 @@ HELLO WORLD PROJECT
 # Development Environment
 python
 
-# Useful Websites
+# Useful Website
 
 * [Web Site Name](https://www.youtube.com/watch?v=FB4ctVmryis)
